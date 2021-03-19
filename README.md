@@ -14,4 +14,4 @@
 - ⚡ Design: Sketch, Xd, InVision, Illustrator, Photoshop, InDesign, After Effects.
 - 🌱 I’m currently learning Vue.js, npm and Node.js
 
-- 📫 How to reach me: https://www.trimetastudio.com/
+- 📫 How to reach me: www.trimetastudio.com
