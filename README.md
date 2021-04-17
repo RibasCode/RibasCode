@@ -10,7 +10,7 @@
 -->
 - 🔭 Languages & tools:
 - ⚡ Programming: HTML, CSS / Sass, Bootstrap, JavaScript (ES6).
-- ⚡ Others: Git, SEO, API, JSON, BEM, Scrum.
+- ⚡ Others: Git, SEO, API, JSON, BEM, npm, Scrum.
 - ⚡ Design: Sketch, Xd, InVision, Illustrator, Photoshop, InDesign, After Effects.
 - 🌱 I’m currently learning React.js, Wordpress
 
