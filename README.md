@@ -8,7 +8,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Languages & tools:
 - ⚡ Programming: HTML, CSS / Sass, Bootstrap, JavaScript (ES6).
 - ⚡ Others: Git, SEO, API, JSON, BEM, npm, Scrum.
 - ⚡ Design: Sketch, Xd, InVision, Illustrator, Photoshop, InDesign, After Effects.
