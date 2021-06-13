@@ -11,6 +11,6 @@
 - ⚡ Programming: HTML, CSS / Sass, Bootstrap, JavaScript (ES6), jQuery.
 - ⚡ Others: Git, SEO, API, JSON, BEM, npm, Scrum.
 - ⚡ Design: Sketch, Xd, InVision, Illustrator, Photoshop, InDesign, After Effects.
-- 🌱 I’m currently learning React.js, Wordpress
+- 🌱 I’m currently learning React.js
 
 - 📫 How to reach me: www.trimetastudio.com
