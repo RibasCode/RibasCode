@@ -1,9 +1,9 @@
 ### Hi there 👋, I'll tell you a little about myself:
 
-- ⚡ Programming:
-        • HTML
-        • CSS / Sass
-        • JavaScript / jQuery
+- ⚡ Programming:<br>
+        • HTML<br>
+        • CSS / Sass<br>
+        • JavaScript / jQuery<br>
         • Bootstrap
         • JSP
 
