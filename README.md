@@ -1,26 +1,26 @@
 ### Hi there 👋, I'll tell you a little about myself:
 
-⚡ Programming:<br>
-        • HTML<br>
-        • CSS / Sass<br>
-        • JavaScript / jQuery<br>
-        • Bootstrap<br>
-        • JSP<br>
+- ⚡ Programming:
+        • HTML
+        • CSS / Sass
+        • JavaScript / jQuery
+        • Bootstrap
+        • JSP
 
-⚡ Others:<br>
-        • Git / GitLab / GitHub<br>
-        • Jira<br>
-        • npm<br>
-        • SEO<br>
+- ⚡ Others:<br>
+        • Git / GitLab / GitHub
+        • Jira
+        • npm
+        • SEO
 
-⚡ Design:<br>
-        • User Experience (Xd)<br>
-        • Illustrator (Ai)<br>
-        • Photoshop (Ps)<br>
-        • After Effects (Ae)<br>
-        • InDesign (Id)<br>
-        • InVision<br>
-        • Figma<br>
+- ⚡ Design:<br>
+        • User Experience (Xd)
+        • Illustrator (Ai)
+        • Photoshop (Ps)
+        • After Effects (Ae)
+        • InDesign (Id)
+        • InVision
+        • Figma
 
 - 🌱 I’m currently learning React.js
 
