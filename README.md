@@ -1,16 +1,27 @@
-### Hi there 👋
-<!--
-**RibasCode/RibasCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- ⚡ Programming: HTML, CSS / Sass, Bootstrap, JavaScript (ES6), jQuery.
-- ⚡ Others: Git, Jira, SEO, API, JSON, BEM, npm, Scrum.
-- ⚡ Design: Sketch, Xd, InVision, Illustrator, Photoshop, InDesign, After Effects.
+### Hi there 👋, I'll tell you a little about myself:
+
+- ⚡ Programming:
+        • HTML
+        • CSS / Sass
+        • JavaScript / jQuery
+        • Bootstrap
+        • JSP
+
+- ⚡ Others:
+        • Git / GitLab / GitHub
+        • Jira
+        • npm
+        • SEO
+
+- ⚡ Design:
+        • User Experience (Xd)
+        • Illustrator (Ai)
+        • Photoshop (Ps)
+        • After Effects (Ae)
+        • InDesign (Id)
+        • InVision
+        • Figma
+
 - 🌱 I’m currently learning React.js
 
 - 📫 How to reach me: www.trimetastudio.com
