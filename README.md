@@ -1,6 +1,6 @@
 ### Hi there 👋, I'll tell you a little about myself:
 
-- ⚡ Programming:
+- ⚡ Programming:<br>
         • HTML
         • CSS / Sass
         • JavaScript / jQuery
